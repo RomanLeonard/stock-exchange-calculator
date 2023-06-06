@@ -140,7 +140,7 @@ if (isset($_POST) && !empty($_POST)) {
                                         <button class="btn btn-success" type="submit">Calculate P/L</button>
                                     </div>
                                     <div class="col-12 mt-5">
-                                        <p style="font-size: 0.9rem; margin-bottom: 0"><span style="color: crimson">P/N</span> (definition for this use case): Profit/Loss (Profit and Loss)</p>
+                                        <p style="font-size: 0.9rem; margin-bottom: 0"><span style="color: crimson">P/L</span> (definition for this use case): Profit/Loss (Profit and Loss)</p>
                                     </div>
                                 </div>
 
